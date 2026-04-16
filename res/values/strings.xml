@@ -1,0 +1,13 @@
+<resources>
+    <string name="warp_section_title">WARP UI</string>
+    <string name="warp_enable_switch">Enable WARP</string>
+    <string name="warp_register_title">Register for WARP</string>
+    <string name="warp_register_button">Register</string>
+    <string name="warp_eula_prompt">Please accept the EULA to continue.</string>
+    <string name="warp_status_stopped">Stopped</string>
+    <string name="warp_status_registering">Registering...</string>
+    <string name="warp_status_starting">Starting...</string>
+    <string name="warp_status_running">Running</string>
+    <string name="warp_status_error">Error</string>
+    <string name="warp_not_registered">Not Registered</string>
+</resources>
